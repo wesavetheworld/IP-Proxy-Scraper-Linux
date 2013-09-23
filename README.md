@@ -22,5 +22,5 @@ or visit me on my website http://www.daapii.users.sourceforge.net
 Bugs/Issues
 =========
 
-Please report any bugs or issues you might encounter while using reMatcher,
+Please report any bugs or issues you might encounter while using IP Proxy Scraper,
 any help is greatly appreciated!

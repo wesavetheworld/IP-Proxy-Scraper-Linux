@@ -3,6 +3,11 @@ IP Proxy Scraper-Linux
 
 A lightweight and easy to use tool to extract multiple proxy server from a list of websites!
 
+  Requirements for this tool:
+  Colorama
+  Python 2.7.5
+
+
 IP Proxy Scraper is available for Windows and Linux, this is the Linux version.
 The Windows version can be found on my website: http://www.daapii.users.sourceforge.net/Projects/IP%20Proxy%20Scraper.html
 
